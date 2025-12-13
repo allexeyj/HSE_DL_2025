@@ -1,4 +1,4 @@
 Шатурный Алексей Давыдович ПАДИ3
 
-cсылка на hs space для проекта:
+cсылка на hf space для проекта:
 https://huggingface.co/spaces/Alexator26/project-demo
